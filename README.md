@@ -1,5 +1,20 @@
 ## Hi there 👋
-
+<style>
+    .aboutme {
+        display: flex;
+    }
+    .about_en, .about_pt {
+        flex: 1; /* Dividir igualmente o espaço entre as duas divs */
+        padding: 10px;
+        box-sizing: border-box;
+    }
+    .about_en {
+        background-color: #f0f0f0; /* Cor de fundo para diferenciação */
+    }
+    .about_pt {
+        background-color: #e0e0e0; /* Cor de fundo para diferenciação */
+    }
+</style>
 <div class="aboutme">
     <div class="about_en">
         Texto em inglês
