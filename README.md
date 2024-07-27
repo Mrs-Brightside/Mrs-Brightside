@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<div class="aboutme">
+    <div class="about_en">
+        Texto em inglês
+    </div>
+    <div classe="about_pt">
+        Texto em portguês
+    </div>
+</div>
+
 **taniascmarques/taniascmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
