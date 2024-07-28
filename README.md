@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
+
 <div class="aboutme" style="display: flex;">
         <div class="about_en" style="flex: 1; padding: 10px; box-sizing: border-box;">
             Texto em inglês
