@@ -5,6 +5,8 @@
     <br>
     <br>
     <br>
+    <br>
+    <br>
 </p>
 <div align="center">
     <img src="about-me.gif" alt="Some little things about me">
