@@ -13,9 +13,17 @@
 </div>
 
 <div align="center">
+
 ---
 
 <img width="70px" src="https://i.imgur.com/yY111FZ.png" alt="Visual Studio Code">
+
+---
+
+</div>
+<div align="center">
+
+---
 
 <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-plain.svg" alt="Behance" />
 <img width="70px" src="https://i.imgur.com/7DkX1WS.png" alt="Linux">
@@ -28,4 +36,5 @@
 <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" alt="Firebase" />
 
 ---
+
 </div>
