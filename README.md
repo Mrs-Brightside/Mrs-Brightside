@@ -11,6 +11,8 @@
 <div align="center">
     <img src="about-me.gif" alt="Some little things about me">
 </div>
+
+<div align="center">
 ---
 
 <img width="70px" src="https://i.imgur.com/yY111FZ.png" alt="Visual Studio Code">
@@ -26,3 +28,4 @@
 <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" alt="Firebase" />
 
 ---
+</div>
