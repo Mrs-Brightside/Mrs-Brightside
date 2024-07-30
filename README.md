@@ -2,7 +2,7 @@
     <img src="header.gif" alt="Hi, I'm Tânia... Olá! Sou a Tânia">
 </div>
 <div align="center">
-    <img height="500px" src="about-me.gif" alt="Some little things about me">
+    <img height="1500px" src="about-me.gif" alt="Some little things about me">
 </div>
 
 # 
