@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
     <img src="header.gif" alt="Hi, I'm Tânia... Olá! Sou a Tânia">
 </div>
