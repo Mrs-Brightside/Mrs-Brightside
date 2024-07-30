@@ -11,16 +11,18 @@
 <div align="center">
     <img src="about-me.gif" alt="Some little things about me">
 </div>
+---
 
-# 
+<img width="70px" src="https://i.imgur.com/yY111FZ.png" alt="Visual Studio Code">
 
-Here are some ideas to get you started:
+<img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-plain.svg" alt="Behance" />
+<img width="70px" src="https://i.imgur.com/7DkX1WS.png" alt="Linux">
+<img width="70px" src="https://i.imgur.com/2tkmLF2.png" alt="C Programming Language">
+<img width="70px" src="https://i.imgur.com/z9shluT.png" alt="Bash">
+<img width="70px" src="https://i.imgur.com/t2ttPzu.png" alt="Git Hub">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" alt="C Programming Language" />
+<img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS 3" />
+<img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" alt="Firebase" />
+
+---
