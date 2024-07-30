@@ -1,9 +1,7 @@
 <div align="center">
     <img src="header.gif" alt="Hi, I'm Tânia... Olá! Sou a Tânia">
 </div>
-<div>
-    <h heigth="50px">teste</h>
-</div>
+<h>teste</h>
 <div align="center">
     <img src="about-me.gif" alt="Some little things about me">
 </div>
