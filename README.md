@@ -11,8 +11,14 @@
 <div align="center">
     <img src="about-me.gif" alt="Some little things about me">
 </div>
+<p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+</p>
 <div align="center">
-
 <h3>Some of my skills and languages 💻</h3>
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" alt="C Programming Language" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS 3" />
