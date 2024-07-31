@@ -15,8 +15,6 @@
     <br>
     <br>
     <br>
-    <br>
-    <br>
 </p>
 <div align="center">
 <h3>Some of my skills and languages 💻</h3>
@@ -30,8 +28,6 @@
 </div>
 <div align="center">
 <p>
-    <br>
-    <br>
     <br>
     <br>
     <br>
