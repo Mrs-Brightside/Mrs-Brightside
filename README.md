@@ -19,7 +19,7 @@
 <a href="https://www.behance.net/taniamarques" target="_blank"><img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-plain.svg" alt="Behance" /></a>
 <a href="https://www.linkedin.com/in/taniascmarques/" target="_blank"><img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" /></a>
 <a href="https://vimeo.com/taniascmarques" target="_blank"><img width="70px" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-vimeo-3.png" alt="Vimeo"/></a>
-<a href="https://www.instagram.com/taniascmarques/" target="_blank"><img width="70px" src="https://icons8.com/icon/RhYNENh5cxlS/instagram" alt="Instagram" /></a>
+<a href="https://www.instagram.com/taniascmarques/" target="_blank"><img width="70px" src="https://freelogopng.com/images/all_img/1683192079instagram-logo-black-and-white-png.png" alt="Instagram" /></a>
 
 ---
 
